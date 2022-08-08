@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KassadinX
-- 👀 I’m interested in Python, Machine Learning, Neural Networks
-- 🌱 I’m currently learning Machine Learning, Neural Networks
+- 👀 I’m interested in Python, Machine Learning, Neural Networks,Java, Javascript, GIT, C, C++
+- 🌱 I’m currently learning Python, Machine Learning, Neural Networks,Java, Javascript, GIT, C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
